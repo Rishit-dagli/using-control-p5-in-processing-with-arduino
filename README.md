@@ -7,6 +7,6 @@ For the seven segment program i have added a mod logic to control the seven segm
 For it to run upload the arduino code on the board and simultaneously run the processing file.
 
 Pin numbers:
-  Servo - 7
+  Servo - 7     
   7 segment(in alphabetical order)refer the image
     2,3,4,5,6,7,8,9
